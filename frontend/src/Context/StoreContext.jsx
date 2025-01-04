@@ -9,7 +9,8 @@ const StoreContextProvider = (props) => {
 
     const [token, setToken] = useState("");
     
-    const url = "http://localhost:4000"
+    const url = "https://salex-wqdu.onrender.com
+"
     
 
     const [cartItems, setCartItems] = useState({});
